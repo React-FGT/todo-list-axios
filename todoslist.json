@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Levantarse de la cama",
+      "done": false
+    },
+    {
+      "id": 1,
+      "title": "Almorzar",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Hacer 50 flexiones",
+      "done": true
+    },
+    {
+      "id": 3,
+      "title": "Correr 30 min",
+      "done": true
+    },
+    {
+      "id": 4,
+      "title": "Jugar a la consola",
+      "done": true
+    }
+  ]
+}
