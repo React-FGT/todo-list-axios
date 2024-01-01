@@ -141,6 +141,8 @@ La información va a salir de un JSON:
 ]
 ```
 
+TodoForm es un formulario simple, apenas un input para el título y un botón, recuerda hacer las validaciones que creas convenientes
+
 ## Autor
 
 Desarrollado por Fran Gregori Tandazo
