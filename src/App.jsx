@@ -1,7 +1,7 @@
 import './App.sass'
 import TodoForm from './components/TodoForm'
-
 import TodoList from './components/TodoList'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -9,6 +9,7 @@ function App() {
     <>
       <TodoList />
       <TodoForm />
+      <Footer />
     </>
   )
 }
